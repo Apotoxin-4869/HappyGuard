@@ -17,7 +17,7 @@ OR
 • MrYacha, Ayra Hikari and Mizukito Akito for Federations.
 • 1maverick1 for welcome mutes.
 
-For the link to the old repo containing all the commit history and authorships, [click here](https://github.com/Apotoxin-4869/HappyGuard.git)
+For the source code, [click here](https://github.com/Apotoxin-4869/HappyGuard.git)
 
 ## Notice
 No new features will be added to this project anymore, however occasional bug fixes will be released.
